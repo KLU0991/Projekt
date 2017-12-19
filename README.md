@@ -1,2 +1,2 @@
-Aplikacia bude simulovat doskovú  hru biliard kde budu hrat proti sebe dvaja hráči pomocou bluetotoh 
- Minimalna verzia bude pre Android 3.3.
+Aplikacia bude simulovat doskovú  hru Dáma s základnými pravidlami. Hráč bude hrat proti počítači s možnoštou výberu obtaižnosti.
+Mininmálna verzia Androidu 3.3.1
